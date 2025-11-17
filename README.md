@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **roshanramees71@gmail.com**
 
-- ⚡ Fun fact **I workout sometimes**
+- ⚡ Fun fact **I lift sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
