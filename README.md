@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramiz0000&label=Profile%20views&color=0e75b6&style=flat" alt="ramiz0000" /> </p>
 
-- 🌱 I’m currently learning **python,aws,devops**
+- 🌱 I’m currently learning: **python,aws,devops**
 
-- 📫 How to reach me **roshanramees71@gmail.com**
+- 📫 contatct me: **roshanramees71@gmail.com**
 
-- ⚡ Hobby **I lift sometimes**
+- ⚡ Hobby: **I lift sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
